@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunnyPraneeth5
-- 👀 I’m interested in coding and web design & development
-- 🌱 I’m currently learning AI
+- 👀 I’m passionate about coding, web design, and development. I also love exploring AI and machine learning.
+- 🌱 I’m currently learning advanced AI techniques and building predictive models.
 - 💞️ I’m looking to collaborate on developing a site, app, and AI models
 - 📫 How to reach me karu.praneeth@mail.com
 - 😄 Pronouns: ...
