@@ -3,7 +3,7 @@
 - 🌱 I’m currently diving deep into advanced AI techniques and building cutting-edge predictive models.
 - 💞️ I’m eager to collaborate on developing innovative websites, apps, and AI models.
 - 📫 You can reach me at karu.praneeth@mail.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving complex puzzles and often participate in hackathons!
 
 <!---
