@@ -2,7 +2,7 @@
 - 👀 I’m passionate about coding, web design, and development. I also love exploring AI and machine learning.
 - 🌱 I’m currently diving deep into advanced AI techniques and building cutting-edge predictive models.
 - 💞️ I’m eager to collaborate on developing innovative websites, apps, and AI models.
-- 📫 You can reach me at karu.praneeth@mail.com
+- 📫 You can reach me at karu.praneeth@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving complex puzzles and often participate in hackathons!
 
