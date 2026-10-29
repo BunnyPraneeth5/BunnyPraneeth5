@@ -1,50 +1,90 @@
 <div align="center">
 
-# Karu Praneeth Kumar (Bunny)
-### Agentic AI Engineer
-
-Prediction wasn't enough. I build things that decide and act.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=680&lines=%24+boot+ops%3A%2F%2Fbunny;PLAYER+1%3A+BUNNY+%E2%80%94+CLASS%3A+AGENT+BUILDER;Prediction+wasn't+enough.;I+build+things+that+decide+and+act." alt="Prediction wasn't enough. I build things that decide and act." />
 
 </div>
 
-<br>
+### 🕹️ Player card
 
-Now building agentic systems in Bengaluru, hunting for Agentic AI / ML Engineer roles at startups doing the real thing, and working toward my own agentic AI company.
+```yaml
+name:      Karu Praneeth Kumar  (Bunny)
+class:     Agentic AI Engineer
+base:      Bengaluru, India
+current:   Intern Engineer @ Cyrene AI
+looking:   true          # agentic AI / ML roles, DMs open
+endgame:   my own agentic AI company
+lore:      used to make PUBG videos in Telugu. now I build the shooter.
+```
 
-**Currently building:** multi-agent orchestration with MCP, pushing SOC Copilot from single-agent workflows toward full agent-to-agent decision-making.
+### ⚔️ Quest log
 
-<br>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## What I build
+**🛡️ [SOC Copilot](https://github.com/BunnyPraneeth5/SOC-Copilot)**<br>
+![flagship](https://img.shields.io/badge/-MAIN_QUEST-f0b429?style=flat-square)
 
-**[SOC Copilot](https://github.com/BunnyPraneeth5/SOC-Copilot)** — Desktop SIEM copilot powered by four collaborating MCP agents: recon, reputation, exposure scan, and report. Underneath: a hybrid Isolation Forest + Random Forest model hitting 99.88% accuracy on CICIDS2017.
+**Problem:** analysts drown in alerts.<br>
+**Fix:** an offline analyst that doesn't just flag a bad IP, it *investigates* it.
 
-**[TARS](https://github.com/BunnyPraneeth5/agentarena)** — An autonomous coding agent that doesn't quit when one model fails. Gemini 2.5 Flash falls back to Nemotron, then Qwen, with cooldown tracking so it never stalls. Level 6 on AgentArena/BigCodeBench.
+`99.88%` detection · CICIDS2017
 
-**[Portfolio](https://bunnypraneeth.pythonanywhere.com)** — Every page, post, project, and certification updates from the backend. No redeploys, no touching code.
+</td>
+<td width="33%" valign="top">
 
-<br>
+**🤖 [TARS](https://github.com/BunnyPraneeth5/TARS)**<br>
+![benchmarking](https://img.shields.io/badge/-MAIN_QUEST-f97316?style=flat-square)
 
-## Stack
+**Problem:** agents die when a model gets rate-limited.<br>
+**Fix:** extra lives. It respawns on the next model and keeps going.
 
-`Python` `FastAPI` `Django REST` `Scikit-learn` `Pandas` `PyQt6` `MCP` `N8N` `Splunk` `SQLite` `MySQL`
+`Level 6` on Agent Arena
 
-Learning now: `React` `Tailwind` `Docker`
+</td>
+<td width="33%" valign="top">
 
-<br>
+**🎮 [termfps](https://github.com/BunnyPraneeth5/termfps)**<br>
+![side quest](https://img.shields.io/badge/-SIDE_QUEST-39d353?style=flat-square)
 
-## Proof
+**Problem:** I wanted to learn Go.<br>
+**Fix (obviously):** a 3D zombie shooter that runs inside your terminal.
 
-Anthropic Academy — MCP · Deloitte Cyber Security (Forage)
+`30 FPS` · no GPU · ~200 tests
 
-<br>
+</td>
+</tr>
+</table>
 
-## Find me
+### 🏆 Achievements unlocked
 
-[GitHub](https://github.com/BunnyPraneeth5) · [LinkedIn](https://linkedin.com/in/karu-praneeth-kumar) · [Portfolio](https://bunnypraneeth.pythonanywhere.com) · [Google Developer Profile](https://me.developers.google.com/u/102730763543357783507) · [karu.praneeth@gmail.com](mailto:karu.praneeth@gmail.com)
+`🥈 Superhuman Lab 2026 runners-up` `🏅 Agents League: Reasoning Agents` `🔌 Anthropic MCP` `🎤 Ran TechTrotter 2K25 (25+ teams)`
 
-<br>
+### 🎒 Loadout
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 <div align="center">
-<sub>Still building. Next one soon.</sub>
+
+<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BunnyPraneeth5&theme=github_dark" alt="GitHub stats" />
+<img height="140" src="https://streak-stats.demolab.com?user=BunnyPraneeth5&hide_border=true&theme=github-dark-blue" alt="Streak" />
+<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BunnyPraneeth5&theme=github_dark" alt="Top languages" />
+
+```console
+bunny@ops:~$ contact --now
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://bunnypraneeth.pythonanywhere.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karu-praneeth-kumar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karu.praneeth@gmail.com)
+
+<sub>I reply faster than my agents do. Save point reached. Next level loading.</sub>
+
 </div>
