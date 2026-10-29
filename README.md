@@ -13,7 +13,7 @@ base:      Bengaluru, India
 current:   Intern Engineer @ Cyrene AI
 looking:   true          # agentic AI / ML roles, DMs open
 endgame:   my own agentic AI company
-lore:      used to make PUBG videos in Telugu. now I build the shooter.
+lore:      used to make PUBG videos in YT. now I build the shooter.
 ```
 
 ### ⚔️ Quest log
